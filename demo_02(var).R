@@ -52,7 +52,7 @@ c2
 # 연속된 문자 변수를 만들기
 d2 <- c("a","c","e")
 d2
-e2 <- c("Hello!!","World","is","Good")
+e2 <- c("Hello!!","World","is","Good") 
 e2
 # 문자변수의 연산?
 b2+10 # Error in b2 + 10 : 이항연산자에 수치가 아닌 인수입니다
